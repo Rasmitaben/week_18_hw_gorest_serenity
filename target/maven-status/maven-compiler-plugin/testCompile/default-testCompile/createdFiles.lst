@@ -1,0 +1,5 @@
+com\gorest\gorestinfo\UsersCRUDTest.class
+com\gorest\testbase\TestBase.class
+com\gorest\gorestinfo\UsersDataDrivenTesting.class
+com\gorest\gorestinfo\TagsTest.class
+com\gorest\AppTest.class
